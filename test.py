@@ -14,3 +14,5 @@ if result == paper[0]:
     print('おめでとうございます！')
 elif result == paper[5]:
     print('そんなときもあるさ')
+
+    print("渡部")
