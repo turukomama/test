@@ -16,3 +16,5 @@ elif result == paper[5]:
     print('そんなときもあるさ')
 
     print("渡部")
+
+    #倉持
