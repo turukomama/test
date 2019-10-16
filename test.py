@@ -17,5 +17,6 @@ elif result == paper[5]:
 
     print("渡部")
     print("桑原")
+    ptint("加藤")
 
     #倉持
